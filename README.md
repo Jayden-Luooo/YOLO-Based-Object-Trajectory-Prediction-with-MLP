@@ -35,9 +35,7 @@ YOLO-Based Object Trajectory Prediction with MLP/
     ├── main_person_track.csv
     ├── prediction_results.csv
     ├── all_person_prediction.csv
-    ├── all_person_prediction_scored.csv
-    ├── prediction_demo.mp4
-    └── all_person_prediction_demo.mp4
+    └── all_person_prediction_scored.csv
 ```
 
 ## Model

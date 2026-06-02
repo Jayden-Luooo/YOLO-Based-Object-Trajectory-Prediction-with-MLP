@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+.ipynb_checkpoints/
+
+# Environment
+.venv/
+venv/
+
+# YOLO outputs
+runs/
